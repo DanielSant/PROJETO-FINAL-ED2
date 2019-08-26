@@ -1,0 +1,7 @@
+gps("Itabaiana","Areia Branca",19.2,29).
+gps("Caninde de Sao Francisco","Poco Redondo",21,32).
+gps("Itabaiana","Ribeiropolis",21.9,33).
+gps("Poco Redondo","Monte Alegre de Sergipe",29.4,44).
+gps("Poco Redondo","Caninde de Sao Francisco",21,32).
+gps("Poco Redondo","Porto da Folha",66.2,99).
+gps("Ribeiropolis","Itabaiana",21.9,33).
